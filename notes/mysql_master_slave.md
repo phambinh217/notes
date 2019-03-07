@@ -167,4 +167,4 @@ Bài viết trên được viết dựa trên kinh nghiệm tìm hiểu mày mò
 Cảm ơn tất cả các bạn.
 
 ---
-Ở hồi sau anh A có kết hợp với dự án laravel, mời bạn đọc tiếp [Sử dụng master - slave mysql trong dự án Laravel](https://kipalog.com/posts/Su-dung-master---slave-mysql-trong-du-an-Laravel)
+Ở hồi sau anh A có kết hợp với dự án laravel, mời bạn đọc tiếp [Sử dụng master - slave mysql trong dự án Laravel](/notes/mysql_master_slave_laravel.md)
